@@ -18,7 +18,7 @@
                                 <field name="marca" />
                                 <field name="car_model"/>
                                 <field name="cv"/>
-                                <field name="fuel_litres" string="Galones a Comprar"/>
+                                <field name="fuel_litres" string="Galones a VENDEEER"/>
                               </group>
                             <group name="right">
                               <field name="number_plate"/>
