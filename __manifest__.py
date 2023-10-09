@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "nitro_eli",
+    'name': "nitro_kathe",
 
     'summary': """
         Gestión de Estación de Gasolinera Nitro Gas
